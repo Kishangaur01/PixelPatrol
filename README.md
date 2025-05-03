@@ -8,4 +8,6 @@ Preprocessing and feature extraction from input images.
 
 Machine Learning models trained to distinguish real and fake images.
 
-Support for classification of different types of image forgeries (e.g., splicing).
+Support for classification of different types of image forgeries (e.g., image splicing, copy-move).
+
+one can download the dataset from this website: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
